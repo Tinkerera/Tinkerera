@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkerera&label=Profile%20views&color=0e75b6&style=flat" alt="tinkerera" /> </p>
-
-
 - 📫 How to reach me **yadem5193@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
