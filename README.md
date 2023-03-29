@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkerera&label=Profile%20views&color=0e75b6&style=flat" alt="tinkerera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tinkerera" alt="tinkerera" /></a> </p>
 
 - 📫 How to reach me **yadem5193@gmail.com**
 
