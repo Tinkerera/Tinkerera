@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Tinkerera&style=flat-square&color=green" alt=""/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
