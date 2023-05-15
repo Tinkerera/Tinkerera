@@ -5,6 +5,7 @@
 </div>
 
 - 🌱 I’m currently learning **Golang, Javascript, Python**
+- ⚡💻 I'm currently working on Cyber Security. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ademyildirm/">
