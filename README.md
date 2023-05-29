@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinkerera&label=Profile%20views&color=0e75b6&style=flat" alt="tinkerera" /> </p>
-
 - 🔭 I’m currently working on **data driven astronomy.**
 
 - 🌱 I’m currently learning **Pytorch, Tensorflow, Python.**
