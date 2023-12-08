@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
 <h3 align="center">A passionate cybersecurity researcher</h3>
 
-- 🌱 I’m currently learning **network and application security.**
+- 🌱 I’m currently learning **Network and Application Security.**
 
 - 📫 How to reach me **ademyildirimv@gmail.com**
 
