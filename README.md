@@ -48,3 +48,4 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="48" alt="medium logo"  />
   </a>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tinkerera&label=Profile%20views&color=0e75b6&style=flat" alt="xgravellx" /> </p>
