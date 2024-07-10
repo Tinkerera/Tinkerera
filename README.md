@@ -49,3 +49,4 @@
   </a>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tinkerera&label=Profile%20views&color=0e75b6&style=flat" alt="xgravellx" /> </p>
+[![](https://visitcount.itsvg.in/api?id=Tinkerera&icon=0&color=0)]
